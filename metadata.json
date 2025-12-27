@@ -1,0 +1,7 @@
+{
+  "name": "SEMAD - Documentação de Eventos de RH",
+  "description": "Sistema de gestão e versionamento de regras de folha de pagamento da Prefeitura de São Luís (SEMAD), com controle rigoroso de publicação e histórico.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
